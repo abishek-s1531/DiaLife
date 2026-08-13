@@ -1,4 +1,4 @@
-======================================
+
 DiaLife - Diabetic Management System
 =======================================
 ## About the Project
